@@ -1,6 +1,8 @@
 aerogear-simplepush-unifiedpush-quickstart
 ==============================
 
+## THIS CODE IS NOW BEING MAINTAINED [HERE](https://github.com/aerogear/aerogear-js-cookbook) .  THIS REPO IS WILL NO LONGER BE MAINTAINED
+
 An example of using AeroGear's SimplePush/Unified Push JavaScript API. Based on [aerogear-simplepush-quickstart](https://github.com/aerogear/aerogear-simplepush-quickstart) enchancing to support registration with the UnifiedPush server.
 
 Please visit our [tutorial page](http://aerogear.org/docs/guides/aerogear-push-js/) for more information.
